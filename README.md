@@ -1,2 +1,2 @@
 # web
-Web Editörü Dersi Kaynak Dosyaları
+Web Editörü Dersi Kaynak Dosyaları (Kodları)
